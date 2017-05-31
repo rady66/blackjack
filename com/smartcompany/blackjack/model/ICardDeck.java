@@ -2,9 +2,6 @@ package com.smartcompany.blackjack.model;
 
 /**
  * Interface for a card deck
- * 
- * @author Radoslav Ivanov
- *
  */
 public interface ICardDeck {
 	/**
